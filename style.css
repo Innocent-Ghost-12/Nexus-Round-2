@@ -152,6 +152,12 @@
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
   }
+  .specialbox {
+    background: #59d6d6;
+    text-align: center;
+    padding: 1.5rem 2rem;
+    box-shadow: var(--shadow);
+  }
   
   /* Info */
   .info {
@@ -162,6 +168,14 @@
     grid-template-columns: repeat(2, 1fr);
     padding: 3rem;
   }
+.submission{
+  text-decoration: none;
+   color: inherit;
+   margin: 0 45%;
+}
+.submission:hover{
+  color: #59d6d6;
+} 
   
   /* Portfolio */
   .portfolio {
