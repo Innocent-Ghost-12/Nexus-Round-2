@@ -98,12 +98,12 @@
   }
 
   .blank{
-      position: absolute;
-      /* width: 92vw; */
-      height:57px;
-      background-color: black;
-      margin-top: -50px;
-      bottom: 0;
+    position: absolute;
+    width: 100.08%;
+    height: 6%;
+    background-color: black;
+;
+    bottom: 0;
   }
   
   .showcase h1 {
